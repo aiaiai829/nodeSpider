@@ -1,0 +1,16 @@
+{
+  "name": "nodeSpider",
+  "version": "1.0.2-bate",
+  "description": "node爬虫，爬取footlocker等球鞋网站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TomLee",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "superagent": "^5.1.0"
+  }
+}
