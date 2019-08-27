@@ -1,5 +1,6 @@
 # nodeSpider
-node爬虫，爬取footlocker等球鞋网站
+node爬虫，爬取footlocker球鞋名称、鞋码、图片、价格、在售情况
+（目前项目比较忙，后面会集成mangoDB，实时监控热门鞋款的上新和补货）
 
 npm i
 
