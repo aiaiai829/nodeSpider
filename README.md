@@ -10,3 +10,6 @@ npm i
 node src/index.js
 
 Chrome安装JSONView便于查看抓取数据 ~
+
+
+![部分数据](https://github.com/TomLeel/nodeSpider/blob/master/1585884066.jpg?raw=true)
